@@ -1,15 +1,15 @@
 # Table of contents
 
-* [🌐 Getting Started](README.md)
+* [Getting Started](README.md)
   * [Create an Account 🛣️](getting-started/create-an-account.md)
   * [Account Information 🎉](getting-started/account-information.md)
-* [💻 edeXa](edexa/README.md)
+* [edeXa](edexa/README.md)
   * [📝 bStamp](edexa/bstamp/README.md)
     * [Authentication](edexa/bstamp/authentication.md)
     * [Stamping](edexa/bstamp/stamping.md)
     * [Electronic Signature](edexa/bstamp/electronic-signature.md)
   * [📃 bNFT](edexa/bnft/README.md)
     * [Authentication](edexa/bnft/authentication.md)
-  * [📄 bArchive](edexa/barchive/README.md)
+  * [bArchive](edexa/barchive/README.md)
     * [bArchive APIs](edexa/barchive/barchive-apis.md)
 * [edeXa-products](<README (1).md>)

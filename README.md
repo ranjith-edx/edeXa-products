@@ -4,7 +4,7 @@ cover: .gitbook/assets/2406835.jpg
 coverY: 0
 ---
 
-# 🌐 Getting Started
+# Getting Started
 
 {% content-ref url="getting-started/create-an-account.md" %}
 [create-an-account.md](getting-started/create-an-account.md)

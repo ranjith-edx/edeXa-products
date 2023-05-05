@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/First.png
 coverY: 0
 ---
 
-# 💻 edeXa
+# edeXa
 
 {% content-ref url="bstamp/" %}
 [bstamp](bstamp/)
