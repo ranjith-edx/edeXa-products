@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Getting Started](README.md)
+* [Welcome to edeXa — the business blockchain](README.md)
+* [Getting Started](getting-started/README.md)
   * [Create an Account 🛣️](getting-started/create-an-account.md)
   * [Account Information 🎉](getting-started/account-information.md)
 * [edeXa](edexa/README.md)

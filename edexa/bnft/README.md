@@ -1,9 +1,10 @@
 ---
 description: >-
-  Concentrate on your project rather than creating a new smart contract. The
-  edeXa Universe NFT Engine is highly customizable to speed your daily business
-  processes.
+  The fastest & most affordable NFT for Business ecosystem for marketplaces. the
+  NFT engine Protocol allow you to customize your own NFT for your Business.
 ---
 
 # 📃 bNFT
+
+**What is bNFT?**
 
